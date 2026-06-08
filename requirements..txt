@@ -1,0 +1,5 @@
+我们需要安装的第三方库：
+pygame库
+openai库
+numpy库
+可以通过pip方式下载
